@@ -1,11 +1,24 @@
 # linux-assignment-2
-## Weather Forecasting using LSTM recurrent neural networks
-This project leverages Long Short-Term Memory (LSTM) networks to predict weather conditions. The motivation for using LSTM arises from addressing the vanishing gradient problem inherent in traditional Recurrent Neural Networks (RNNs). The model was trained on a dataset comprising 20,000 observations and 8 parameters.
-![forget gate Image](forget-gate.png)
-Forget gate which gives how much of ltm to be remembered.
-![input gate Image](input-gate.png)
-input gate which gives new ltm to be remembered.
-![output gate Image](output-gate.png)
-output gate which gives new stm to be remembered.
+## ADAS Technologies Presentation
 
-Through meticulous training over 100 epochs and data encoding, the model achieves accurate predictions, offering insights into various weather parameters, with a focus on providing precise rainfall measurements in centimeters. Explore the code and usage instructions to adapt the project to your specific forecasting needs.
+## Overview
+This repository contains materials for a presentation on Advanced Driver Assistance Systems (ADAS) technologies. Explore the advancements shaping the automotive industry for safer and more efficient driving experiences.
+
+## Introduction
+Welcome to the ADAS Technologies Presentation! This presentation delves into the latest innovations in ADAS, covering topics such as Adaptive Cruise Control (ACC), Lane Departure Warning (LDW), Blind Spot Detection (BSD), and more.
+
+## Topics Covered
+1. **Introduction to ADAS**
+2. **ACC (Adaptive Cruise Control)**
+3. **LDW (Lane Departure Warning)**
+4. **BSD (Blind Spot Detection)**
+5. **Radar and Sensors in ADAS**
+6. **Reliability in Indian Driving Conditions**
+
+## Usage
+Explore the slides to gain insights into each ADAS technology. Navigate through the presentation to understand the significance and impact of these technologies on modern driving.
+
+## License
+This presentation is licensed under [MIT License](LICENSE). Feel free to use and share, respecting the terms of the license.
+
+Happy Exploring!
